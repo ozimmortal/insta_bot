@@ -43,7 +43,7 @@ pip install instagrapi
 The script runs an infinite loop in the `main()` function, repeating the `interactions()` process every hour and then unfollowing previously followed users to avoid excessive following.
 
 ```python
-python your_script_name.py
+python bot.py
 ```
 
 ## Configuration
